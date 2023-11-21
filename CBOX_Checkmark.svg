@@ -1,0 +1,47 @@
+<svg width="192" height="16" viewBox="0 0 192 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="path-1-inside-1" fill="white">
+<rect y="2" width="14" height="14" rx="1.73947"/>
+</mask>
+<rect y="2" width="14" height="14" rx="1.73947" stroke="#656666" stroke-width="4" mask="url(#path-1-inside-1)"/>
+<path d="M16 2L14 0L6 8L4 6L2 8L6 12L16 2Z" fill="#0084FF"/>
+<mask id="path-3-inside-2" fill="white">
+<rect x="16" y="2" width="14" height="14" rx="1.73947"/>
+</mask>
+<rect x="16" y="2" width="14" height="14" rx="1.73947" stroke="#656666" stroke-width="4" mask="url(#path-3-inside-2)"/>
+<path d="M32 2L30 0L22 8L20 6L18 8L22 12L32 2Z" fill="#0084FF"/>
+<rect x="32.8697" y="2.86973" width="12.2605" height="12.2605" rx="0.869734" fill="#CACBCB" stroke="#CACBCB" stroke-width="1.73947"/>
+<mask id="path-6-inside-3" fill="white">
+<rect x="48" y="2" width="14" height="14" rx="1.73947"/>
+</mask>
+<rect x="48" y="2" width="14" height="14" rx="1.73947" stroke="#656666" stroke-width="4" mask="url(#path-6-inside-3)"/>
+<path d="M64 2L62 0L54 8L52 6L50 8L54 12L64 2Z" fill="#0084FF"/>
+<mask id="path-8-inside-4" fill="white">
+<rect x="64" y="2" width="14" height="14" rx="1.73947"/>
+</mask>
+<rect x="64" y="2" width="14" height="14" rx="1.73947" fill="#F5F7F7" stroke="#CACBCB" stroke-width="4" mask="url(#path-8-inside-4)"/>
+<mask id="path-9-inside-5" fill="white">
+<rect x="80" y="2" width="14" height="14" rx="1.73947"/>
+</mask>
+<rect x="80" y="2" width="14" height="14" rx="1.73947" fill="#F5F7F7" stroke="#CACBCB" stroke-width="4" mask="url(#path-9-inside-5)"/>
+<rect x="96.8697" y="2.86973" width="12.2605" height="12.2605" rx="0.869734" fill="#CACBCB" stroke="#CACBCB" stroke-width="1.73947"/>
+<mask id="path-11-inside-6" fill="white">
+<rect x="112" y="2" width="14" height="14" rx="1.73947"/>
+</mask>
+<rect x="112" y="2" width="14" height="14" rx="1.73947" fill="#F5F7F7" stroke="#CACBCB" stroke-width="4" mask="url(#path-11-inside-6)"/>
+<mask id="path-12-inside-7" fill="white">
+<rect x="128" y="2" width="14" height="14" rx="1.73947"/>
+</mask>
+<rect x="128" y="2" width="14" height="14" rx="1.73947" stroke="#656666" stroke-width="4" mask="url(#path-12-inside-7)"/>
+<path d="M144 2L142 0L134 8L132 6L130 8L134 12L144 2Z" fill="#0084FF"/>
+<mask id="path-14-inside-8" fill="white">
+<rect x="144" y="2" width="14" height="14" rx="1.73947"/>
+</mask>
+<rect x="144" y="2" width="14" height="14" rx="1.73947" stroke="#656666" stroke-width="4" mask="url(#path-14-inside-8)"/>
+<path d="M160 2L158 0L150 8L148 6L146 8L150 12L160 2Z" fill="#0084FF"/>
+<rect x="160.87" y="2.86973" width="12.2605" height="12.2605" rx="0.869734" fill="#CACBCB" stroke="#CACBCB" stroke-width="1.73947"/>
+<mask id="path-17-inside-9" fill="white">
+<rect x="176" y="2" width="14" height="14" rx="1.73947"/>
+</mask>
+<rect x="176" y="2" width="14" height="14" rx="1.73947" stroke="#656666" stroke-width="4" mask="url(#path-17-inside-9)"/>
+<path d="M192 2L190 0L182 8L180 6L178 8L182 12L192 2Z" fill="#0084FF"/>
+</svg>
